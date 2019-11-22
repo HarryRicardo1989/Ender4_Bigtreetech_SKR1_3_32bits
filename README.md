@@ -3,6 +3,7 @@ Configuração completa para a Adaptação da SKR1.3 na Ender4 com Display origi
 
 #define BAUDRATE 115200   
 #define MOTHERBOARD BOARD_BIGTREE_SKR_V1_3
+
 #define BED_MAXTEMP      150  
 
 #define HEATER_0_MAXTEMP 280
