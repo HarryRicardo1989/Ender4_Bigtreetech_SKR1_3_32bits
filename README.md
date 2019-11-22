@@ -11,8 +11,8 @@ Configuração completa para a Adaptação da SKR1.3 na Ender4 com Display origi
 
 //Motor Drivers Definition
 
-#define X_DRIVER_TYPE  TMC2208  
-#define Y_DRIVER_TYPE  TMC2208 
+#define X_DRIVER_TYPE  TMC2208
+#define Y_DRIVER_TYPE  TMC2208
 #define Z_DRIVER_TYPE  TMC2208  
 #define E0_DRIVER_TYPE TMC2208 
 
@@ -29,8 +29,8 @@ Configuração completa para a Adaptação da SKR1.3 na Ender4 com Display origi
 // Preheat Constants
 
 #define PREHEAT_1_LABEL       "PETG"
-#define PREHEAT_1_TEMP_HOTEND 240   
-#define PREHEAT_1_TEMP_BED     60   
+#define PREHEAT_1_TEMP_HOTEND 240
+#define PREHEAT_1_TEMP_BED     60
 #define PREHEAT_1_FAN_SPEED     0 
 
 #define PREHEAT_2_LABEL       "ABS"
