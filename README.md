@@ -16,8 +16,8 @@ Configuração completa para a Adaptação da SKR1.3 na Ender4 com Display origi
 #define E0_DRIVER_TYPE TMC2208 
 
 // The size of the print bed                                                                                                     
-#define X_BED_SIZE 220  //Ricardo                                                                                       
-#define Y_BED_SIZE 220  //Ricardo
+#define X_BED_SIZE 220                                                                                      
+#define Y_BED_SIZE 220  
 
 //Leveling BED                                                                                                                        
 #define PROBE_MANUALLY                                                                                                         
